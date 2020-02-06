@@ -10,7 +10,5 @@ class Shoe
     puts "Your shoe is as good as new!"
   end   
   
-  def cobble(condition)
-    @condition = new
-  end   
+  def
 end  
