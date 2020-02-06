@@ -37,7 +37,3 @@ class Book
   end   
   
 end 
-
-
-book = book.new("Some Title")
-book.turn_page
